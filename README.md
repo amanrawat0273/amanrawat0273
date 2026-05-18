@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Aman Singh Rawat</h1>
-<h3 align="center">Software Engineer II @ Thales | Backend • Data Systems • Security</h3>
+<h3 align="center">Software Engineer III @ Thales | Backend • Data Systems • Security</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-singh-rawat-110291185">
